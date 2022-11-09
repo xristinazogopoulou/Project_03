@@ -8,7 +8,7 @@ All this information is included in a dictionary that I created and is outputted
 To run the ebay-d1 use the command line:
 ```
 PS C:\Users\CHRISTINA\Desktop\cs 40> python ebay.py 'camera'
-PS C:\Users\CHRISTINA\Desktop\cs 40> python ebay.py 'sofa'
+PS C:\Users\CHRISTINA\Desktop\cs 40> python ebay.py 'water_bottle'
 PS C:\Users\CHRISTINA\Desktop\cs 40> python ebay.py 'pen'
 ```
  
