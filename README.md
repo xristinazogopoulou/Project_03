@@ -12,7 +12,7 @@ PS C:\Users\CHRISTINA\Desktop\cs 40> python ebay-dl.py 'water bottle'
 PS C:\Users\CHRISTINA\Desktop\cs 40> python ebay-dl.py 'candy'
 ```
  
-Note that this corresponds to my laptop and directory and might need be different for others. To do this in your directory replace the search term in quotes with your desired item. If you would like to search for items in a specific page make sure to inculde that in your command line. For example:
+Note that this corresponds to my laptop and directory and might need be different for others. Make sure to replace the search term in quotes with your desired item. If you would like to search for items in a specific page make sure to inculde that in your command line. For example:
 
 ```
 PS C:\Users\CHRISTINA\Desktop\cs 40> python ebay-dl.py 'camera' --num_pages=1
