@@ -25,4 +25,3 @@ PS C:\Users\CHRISTINA\Desktop\cs 40> python ebay-dl.py 'camera' --csv=True
 ```
 
  
-To run the ebay-d1 use the command line:
